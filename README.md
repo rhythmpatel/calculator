@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/rhythm19/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/rhythmpatel.calculator?branchName=master)](https://dev.azure.com/rhythm19/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=7&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
